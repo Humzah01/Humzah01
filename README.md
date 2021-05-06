@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Humzah01
-- 👀 I’m interested in HTML, CSS, Java Script
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in HTML, CSS, Java Script, python
+- 🌱 I’m currently learning HTML, CSS, and python
 
 <!---
 Humzah01/Humzah01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
